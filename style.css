@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+   margin: 0;
+   padding-top: 20px;
+}
+#welcome{
+    background: linear-gradient(#2cd8e8 0%,#e82c2c 100%);
+}
+#image{
+    border-radius: 50%;
+    
+    width: 175px;
+}
+h1{
+    color:yellow;
+}
+h2{
+    color:yellow;
+}
+hr{
+width: 20px;
+
+}
